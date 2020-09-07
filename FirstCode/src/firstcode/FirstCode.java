@@ -22,6 +22,10 @@ public class FirstCode {
     */
     public static void main(String[] args) {
         
+        /*
+        to print something on the screen 
+        you have to use System.out.print or System.out.println 
+        */
         System.out.println("Hello World");
     }
     
